@@ -1,0 +1,12 @@
+/*
+.*
+*.aps
+!/res/
+!/src/
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+!/CMakeLists.txt
+!/CMakeSettings.json
+!/make.cmd
+!/makefile
